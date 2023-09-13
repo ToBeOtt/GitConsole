@@ -8,4 +8,8 @@ Console.WriteLine("Hello again");
 
 Console.WriteLine("A change occurs..");
 
-Console.WriteLine("Now master is stepping out of the disguise..");
+
+Console.WriteLine("This is the experimental side of things..");
+
+Console.WriteLine("This is the experimental side of things yet again..");
+
